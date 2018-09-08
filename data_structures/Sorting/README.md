@@ -15,4 +15,4 @@ in ascending, descending and random order. The various sorting technoques are:
 
 The various sorting are analyzed and graphs are plotted in accordance with their runtimes
 
-![](ascen.JPEG)
+![](ascen.JPG)
