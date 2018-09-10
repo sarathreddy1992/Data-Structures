@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (spell check and word suggestion.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+  main.cpp
+  FileSystem.cpp
+  Generating Code...
+  spell check and word suggestion.vcxproj -> E:\1st sem\ads\projects\Ads assignment 3\x64\Debug\spellcheckandwordsuggestion.exe
+  spell check and word suggestion.vcxproj -> E:\1st sem\ads\projects\Ads assignment 3\x64\Debug\spellcheckandwordsuggestion.pdb (Full PDB)
