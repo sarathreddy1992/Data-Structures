@@ -1,0 +1,4 @@
+﻿  TestExecutive.cpp
+e:\1st sem\ads\projects\solution4\consoleapplication1\testexecutive.cpp(45): warning C4101: 'i': unreferenced local variable
+  ConsoleApplication1.vcxproj -> E:\1st sem\ads\projects\Solution4\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> E:\1st sem\ads\projects\Solution4\Debug\ConsoleApplication1.pdb (Full PDB)
